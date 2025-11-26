@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": "2d3b",
+      "username": "aman",
+      "email": "aman@gmail.com",
+      "password": "aman@123",
+      "empId": "EMP1245",
+      "designation": "java developer",
+      "age": "25",
+      "dateOfJoining": "2026-01-05"
+    },
+    {
+      "id": "efee",
+      "username": "ajay",
+      "email": "ajay@gmail.com",
+      "password": "ajay@123",
+      "empId": "EMP1246",
+      "designation": "Frontend Developer",
+      "age": "22",
+      "dateOfJoining": "2025-11-01"
+    },
+    {
+      "id": "3d56",
+      "username": "sachin",
+      "email": "sachin@gmail.com",
+      "password": "sachin@123",
+      "empId": "EMP1247",
+      "designation": "Python developer",
+      "age": "24",
+      "dateOfJoining": "2025-11-03"
+    }
+  ]
+}
